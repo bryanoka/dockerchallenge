@@ -1,1 +1,1 @@
-Tugas Docker FinalAssignment Bryan Sebastian 2702255602
+This is a Docker Assignment (Final Project) on Distributed Cloud Computing Class
